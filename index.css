@@ -316,7 +316,7 @@ section .title::after {
   width: 85%;
 }
 .skills-content .right .cs::before {
-  width: 42%;
+  width: 15%;
 }
 .skills-content .right .html::before {
   width: 90%;
