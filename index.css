@@ -143,6 +143,9 @@
 .home .home-content a .fa-twitch {
   color: #6441a5;
 }
+.home .home-content a .fa-github{
+  color: #fff;
+}
 .home .home-content a:hover {
   color: crimson;
   transition: all 0.6s ease;
